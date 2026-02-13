@@ -116,6 +116,11 @@ button {
 
 <!-- PAGE 1 -->
 <div id="page1">
+    <!-- Beautiful Real Teddy Image -->
+    <img 
+    src="https://images.unsplash.com/photo-1601758123927-1962f0d6a3c6?auto=format&fit=crop&w=500&q=80" 
+    style="width:250px; border-radius:20px; box-shadow:0 10px 30px rgba(0,0,0,0.4); margin-bottom:20px;">
+
     <h1>Hey my dear Arshu 💖<br>Will you be my Valentine baby?</h1>
     <div style="margin-top:40px; position:relative;">
         <button id="yesBtn" onclick="goToPage2()">Yes 💕</button>
