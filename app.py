@@ -145,23 +145,23 @@ button {
         Hey my Paanda 🐼 <br><br>
         Ennaku namma Angappa School kudutha biggest gift na… adhu nee tha ma. School mudinja apram neraiya memories marandhuduchu, aana nee mattum en life la irundhu marave illa.
 
-Naan eppovum nenachu kooda paakala, naan unna ivalo love pannuven nu. Andha oru varusham nee en kooda irundha appo, naan feel panradhu love nu enakku puriyala maa. Adhu oru comfort nu dhaan nenachen… oru close bond nu nenachen. Aana nee en life la irundhu thooram pona apram dhaan purinjadhu — adhu ellam love dhaan nu.
+        Naan eppovum nenachu kooda paakala, naan unna ivalo love pannuven nu. Andha oru varusham nee en kooda irundha appo, naan feel panradhu love nu enakku puriyala maa. Adhu oru comfort nu dhaan nenachen… oru close bond nu nenachen. Aana nee en life la irundhu thooram pona apram dhaan purinjadhu — adhu ellam love dhaan nu.
 
-Unna theda aarambichiten. Unna romba miss pannen di maa. Unna tholachuten nu nenacha neraya naal azhudhuruke… silenta sogama irundhuruke… zone out aayuruke. Un absence enakku evlo impact pannudhu nu appo dhaan purinjadhu.
+        Unna theda aarambichiten. Unna romba miss pannen di maa. Unna tholachuten nu nenacha neraya naal azhudhuruke… silenta sogama irundhuruke… zone out aayuruke. Un absence enakku evlo impact pannudhu nu appo dhaan purinjadhu.
 
-Aana kanavula kooda nenachu paakala… 13 varusham apram namma thirumba pesuvom nu. Ippo namma irukkara bond… adhu enakku romba precious maa. Idhu destiny illati enna nu theriyala.
+        Aana kanavula kooda nenachu paakala… 13 varusham apram namma thirumba pesuvom nu. Ippo namma irukkara bond… adhu enakku romba precious maa. Idhu destiny illati enna nu theriyala.
 
-Eppovadhu nee yosichu paathurukiya… “Naanum Mano-um oru life start pannina eppudi irukkum nu?"
-Naan daily yosippen. Un kooda oru simple life… morning coffee share panradhu, chinna chinna sandai, adhukku apram patch up, un kitta safe-aa thookam varradhu… idhu ellam naan neraya thadava imagine panniruken.
+        Eppovadhu nee yosichu paathurukiya… “Naanum Mano-um oru life start pannina eppudi irukkum nu?"
+        Naan daily yosippen. Un kooda oru simple life… morning coffee share panradhu, chinna chinna sandai, adhukku apram patch up, un kitta safe-aa thookam varradhu… idhu ellam naan neraya thadava imagine panniruken.
 
-Unkitta irundhu enakku real life la kedaikaadha paasamum love-um… en kanavula kedaichirukku. Naan romba safe-aa feel pannuve un kitta. Nee enkitta konjam ownership edukkara maari pesumbodhu… adhu enakku romba pidikkum. Naan ennoda paadhi life-ah un kooda kanavula dhaan vaazhndhuruke ma.
+        Unkitta irundhu enakku real life la kedaikaadha paasamum love-um… en kanavula kedaichirukku. Naan romba safe-aa feel pannuve un kitta. Nee enkitta konjam ownership edukkara maari pesumbodhu… adhu enakku romba pidikkum. Naan ennoda paadhi life-ah un kooda kanavula dhaan vaazhndhuruke ma.
 
-Unnaku enna bayam, enna problem nu enakku puriyudhu. Naan rush panna maaten. Nee un time eduthuko. Oru naal un manasukulla strong-aa “Mano dhaan en life partner” nu feel vandha… unakku en mela complete trust vandha… appo nee enkitta vaa.
+        Unnaku enna bayam, enna problem nu enakku puriyudhu. Naan rush panna maaten. Nee un time eduthuko. Oru naal un manasukulla strong-aa “Mano dhaan en life partner” nu feel vandha… unakku en mela complete trust vandha… appo nee enkitta vaa.
 
-Naan unna Raani maari vechu paathupen. Un Amma-um, en Amma-um “Chaa ippadi oru husband namakku kedaikalaye” nu rombo porama padra maari unna sandhoshama vechupen.
+        Naan unna Raani maari vechu paathupen. Un Amma-um, en Amma-um “Chaa ippadi oru husband namakku kedaikalaye” nu rombo porama padra maari unna sandhoshama vechupen.
 
-Aana idhu ellathukum munnaadi…
-Nee en mela love-um trust-um vechuttu, en kooda vaazha dhairiyama irukanum. Adhu dhaan en aasai.Apdi oru time varumbodhu....
+        Aana idhu ellathukum munnaadi…
+        Nee en mela love-um trust-um vechuttu, en kooda vaazha dhairiyama irukanum. Adhu dhaan en aasai.Apdi oru time varumbodhu....
         <br><br>
         <b>Seekaram enna marriage panniko di thangame ❤️</b>
     </div>
