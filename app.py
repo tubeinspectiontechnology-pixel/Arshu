@@ -116,12 +116,7 @@ button {
 
 <!-- PAGE 1 -->
 <div id="page1">
-    <!-- Beautiful Real Teddy Image -->
-    <img 
-    src="https://images.unsplash.com/photo-1601758123927-1962f0d6a3c6?auto=format&fit=crop&w=500&q=80" 
-    style="width:250px; border-radius:20px; box-shadow:0 10px 30px rgba(0,0,0,0.4); margin-bottom:20px;">
-
-    <h1>Hey my dear Arshu 💖<br>Will you be my Valentine baby?</h1>
+    <h1>Azhagiyeeee💖<br>Will you be my Valentine forever?</h1>
     <div style="margin-top:40px; position:relative;">
         <button id="yesBtn" onclick="goToPage2()">Yes 💕</button>
         <button id="noBtn">No 😢</button>
@@ -131,12 +126,12 @@ button {
 <!-- PAGE 2 -->
 <div id="page2">
     <img class="teddy" src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif">
-    <h2>Thanks for accepting my Love baby ❤️</h2>
+    <h2>Ennaku theriyum thangam nee accept pannuve nu❤️</h2>
 </div>
 
 <!-- PAGE 3 -->
 <div id="page3">
-    <h2>Hey Arshu 🐶 You have a message from Mano 💌</h2>
+    <h2>Arshu 🐶 You have a message from Mano 💌</h2>
     <img class="beagle" src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif">
     <br><br>
     <img class="envelope" onclick="openLetter()"
@@ -146,7 +141,7 @@ button {
 <!-- PAGE 4 -->
 <div id="page4">
     <div id="letterContent" style="display:none; color:white; max-width:700px; font-size:18px;">
-        <h2>My Letter To You 💌</h2>
+        <h2>My Heart for You 💌</h2>
         Hey my Paanda 🐼 <br><br>
         Ennaku namma Angappa School kudutha biggest gift na… adhu nee tha ma. School mudinja apram neraiya memories marandhuduchu, aana nee mattum en life la irundhu marave illa.
 
